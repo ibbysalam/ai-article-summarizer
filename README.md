@@ -4,6 +4,8 @@ A simple command-line tool that takes any chunk of text — a news article, a re
 
 Built as a beginner-friendly project to learn the fundamentals of working with AI APIs: authentication, environment variables, request/response handling, and basic text processing.
 
+You can run the app and play with it on Streamlit here: [AI Article Summarizer](https://ai-article-summarizer-m7yyddzpiesqtfzhxpfwsr.streamlit.app/)
+
 ## What it does
 
 - Accepts pasted text as input
